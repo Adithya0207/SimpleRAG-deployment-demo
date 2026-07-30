@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'Adithya'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4E4CA3570E5349CEAD0240D148BB2B3B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B1EC5D0C1AAC49A4A732A45BA890EFA8 }}
